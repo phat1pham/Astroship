@@ -202,6 +202,15 @@
       padding: 5px !important;
     }
 
+    .compare-plan h1, .compare-plan p{
+      text-align: center;
+    }
+
+    .compare-plan .table-responsive{
+      overflow-x: hidden !important;
+      width: 100% !important;
+    }
+
     .mission .mission-container .row{
       display: block !important;
     }
