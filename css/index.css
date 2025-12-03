@@ -190,7 +190,7 @@
   background-color: rgb(199, 198, 198) !important;
 }
 
-@media (max-width: 480px) {
+@media (max-width: 500px) {
     .pricing .pricing-container{
       display: block !important;
       width: 97% !important;
